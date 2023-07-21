@@ -1,0 +1,6 @@
+{
+    "env": {
+        "mongo_pw": "nodeshop",
+        "JWT_KEY" : "secret"
+    }
+}
